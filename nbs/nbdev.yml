@@ -2,7 +2,7 @@ project:
   output-dir: _docs
 
 website:
-  title: "nbdev_cards"
+  title: "nbdev-cards"
   site-url: "https://mkrech.github.io/nbdev_cards"
   description: "A Sample of how to create cards lib using nbdev"
   repo-branch: main
