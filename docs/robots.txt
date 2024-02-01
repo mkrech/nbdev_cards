@@ -1,1 +1,0 @@
-Sitemap: https://mkrech.github.io/nbdev_cards/sitemap.xml
